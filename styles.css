@@ -1,0 +1,32 @@
+body{
+    background-color: gray;
+}
+.header {
+    text-align: center;
+    background-color: white;
+}
+.photo1 {
+    max-height: 500px;
+    max-width: 500px;
+}
+.photo1-header-left {
+    float: left;
+}
+.photo1-header-right {
+    float: right;
+}
+.image {
+    display: inline-block;
+    vertical-align: middle;
+    max-height: 80%;
+    max-width: 80%;
+}
+.photo2 {
+
+}
+.photo3 {
+
+}
+.photo4 {
+
+}
