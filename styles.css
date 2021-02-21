@@ -1,6 +1,9 @@
 body{
     background-color: gray;
 }
+.feed {
+    
+}
 .header {
     text-align: center;
     background-color: white;
@@ -15,7 +18,7 @@ body{
 .photo1-header-right {
     float: right;
 }
-.image {
+.image1 {
     display: inline-block;
     vertical-align: middle;
     max-height: 80%;
@@ -24,9 +27,48 @@ body{
 .photo2 {
 
 }
+}
+.photo2-header-left {
+    float: left;
+}
+.photo2-header-right {
+    float: right;
+}
+.image2 {
+    display: inline-block;
+    vertical-align: middle;
+    max-height: 80%;
+    max-width: 80%;
+}
 .photo3 {
 
 }
+}
+.photo3-header-left {
+    float: left;
+}
+.photo3-header-right {
+    float: right;
+}
+.image3 {
+    display: inline-block;
+    vertical-align: middle;
+    max-height: 80%;
+    max-width: 80%;
+}
 .photo4 {
 
+}
+}
+.photo4-header-left {
+    float: left;
+}
+.photo4-header-right {
+    float: right;
+}
+.image4 {
+    display: inline-block;
+    vertical-align: middle;
+    max-height: 80%;
+    max-width: 80%;
 }
